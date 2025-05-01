@@ -1,4 +1,4 @@
-# Passport Photo Maker Studio V0.3
+# Passport Photo Maker Studio V1.0
 
 A powerful and easy-to-use tool for creating professional passport photos with advanced features like face detection, background removal, and more.
 
