@@ -33,7 +33,7 @@ A powerful and easy-to-use tool for creating professional passport photos with a
 
 ---
 
-## What's New in V0.3
+## What's New in V1.0
 
 1. **Face Detection and Cropping**
    - Automatically detects and crops the largest face using OpenCV's Haar Cascade.
